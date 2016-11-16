@@ -1,0 +1,52 @@
+body{margin: 0; padding: 0;}
+header{background: #3C5A99; width: 100%; height: 83px;}
+.margin{margin-left: 180px; margin-right: 180px;}
+header h1{font-family: comic sans ms; margin: 0; padding: 0; float: left; font-size: 40px; margin-top: 19px;}
+header h1 a{color: #FFF; text-decoration: none;}
+header .log-in .input{border-color: #1D2A5B; width: 142px; height: 13px; padding-bottom: 3px; padding-top: 4px; padding-left: 3px; padding-right: 3px; margin: 0; border-width: 1px;}
+header .log-in .submit{position: relative; top: 3px; margin-right: 6px; background-color: #4267B2; border-color: #29487D; font-family: sans-serif;border-width: 1px; border-radius: 2px; color: #FFF; padding-bottom: 3px; padding-top: 2px; margin-top: 18px;}
+header .log-in .submit:hover{cursor: pointer; background: #34518C;}
+header .log-in .email{margin-right: 15px; position: relative; top: 3px;}
+header .log-in .password{margin-right: 15px; position: relative; top: 3px;}
+header .log-in a{text-decoration: none; color: #EDFFF2; font-size: 14px; position: relative; bottom: 4px; font-family: sans-serif; font-size: 12px;}
+header .log-in .account{color: #8FABC6; font-size: 14px; position: relative; bottom: 11px; left: 1px; font-family: sans-serif; font-size: 12px;}
+header .log-in .account:hover{text-decoration: underline;}
+header ul{list-style: none; margin: 0; padding: 0;} 
+header li{float: right;}
+section{background: url(bg.png); width: 100%; height: 623px;}
+section .about{float: left; width: 50%;}
+section .about h3{color: #0E385F; font-size: 23px; margin-top: 37px; font-family: sans-serif;}
+section .Sign{float: right; width: 43%; position: relative; bottom: 20px;}
+section .Sign h1{color: #333333; font-size: 37px; position: relative; bottom: 15px; font-family: sans-serif;}
+section .Sign .free{color: #1D2129; font-size: 19px; position: relative; bottom: 30px; font-family: sans-serif;}
+section .Sign form{width: 415px;}
+section a{text-decoration: none; color: #365899;}
+section a:hover{text-decoration: underline;}
+section p{color: #777777;}
+section label{color: #1D2129; font-size: 18px; position: relative; bottom: 28px; font-family: sans-serif;}
+section .Page{position: relative; bottom: 90px;}
+section .radio{color: #1D2129; font-size: 18px; position: relative; bottom: 84px; margin-left: 5px; font-family: sans-serif;}
+section	.male{margin-left: 20px;}
+section	.Birthday{font-size: 12px; margin-left: 260px; position: relative; bottom: 72px; width: 30%;}
+section	.statement{font-size: 15px; position: relative; bottom: 90px;}
+section .name{border-width: 1px; border-color: #BDC7D8; border-radius: 5px; font-size: 18px; position: relative; bottom: 20px; font-family: tahoma; background: transparent; width: 44%; padding-right: 10px; padding-left: 10px; padding-top: 8px; padding-bottom: 8px;}
+section .Sign-Up{border-width: 1px; border-color: #BDC7D8; border-radius: 5px; font-size: 18px; position: relative; bottom: 20px; font-family: tahoma; background: transparent; width: 95%; padding-right: 10px; padding-left: 10px; padding-top: 8px; padding-bottom: 8px;}
+select{border-style: solid; border-color: #BDC7D8; border-width: 1px; width: 80px; height: 30px; position: relative; bottom: 20px;}
+section button{background: linear-gradient(#4C773B, #76B666); width: 185px; height: 40px; color: #FFF; font-size: 16px; border-radius: 7px; border-color: #2C5115; border-width: 1px; position: relative; bottom: 90px; font-family: sans-serif;}
+section button:hover{cursor: pointer; background: linear-gradient(#578843, #86BE77);}
+.clear{clear: both;}
+footer{background: #FFF; position: relative; bottom: 80px; width: 100%; height: 100px;}
+footer ul{list-style: none; margin: 0; padding: 0; float: left;}
+footer ul li{color: #777777;}
+footer .Pilih{list-style: none; margin: 0; padding: 0; width: 100%;}
+footer .Pilih li{float: left; color: #777777;}
+footer .languange{float: left;}
+footer hr{color: #DBDBDB;}
+footer img{width: 35px;}
+footer .icon{width: 20px; position: relative; top: 3px; right: 1px;}
+footer .bahasa{text-decoration: none; color: #365899; font-size: 14px; margin-left: 10px; margin: 3px; padding: 3px;}
+footer a{text-decoration: none; color: #365899; font-size: 14px; margin: 5px; padding: 5px;}
+footer .footer-menu{position: relative; right: 9px;}
+footer .a-menu{position: relative; bottom: 6px; right: 9px;}
+footer a:hover{text-decoration: underline;}
+footer p{float: left; color: #777777;}
